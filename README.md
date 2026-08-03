@@ -39,6 +39,6 @@ Customers on month-to-month contracts churn at a significantly higher rate than 
 Tenure is one of the strongest predictors — customers in their first few months are highest risk
 High monthly charges combined with low service usage is a strong churn signal
 Lack of tech support / add-on services correlates with higher churn
-
+<img width="720" height="333" alt="Fist" src="https://github.com/user-attachments/assets/aa6ecef1-09a0-41aa-a043-9418b9265780" />
 
 
