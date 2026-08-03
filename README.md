@@ -40,5 +40,10 @@ Tenure is one of the strongest predictors — customers in their first few month
 High monthly charges combined with low service usage is a strong churn signal
 Lack of tech support / add-on services correlates with higher churn
 <img width="720" height="333" alt="Fist" src="https://github.com/user-attachments/assets/aa6ecef1-09a0-41aa-a043-9418b9265780" />
+<img width="679" height="362" alt="third" src="https://github.com/user-attachments/assets/75b38a8b-7463-4a88-b827-8cf9616978c1" />
+<img width="720" height="348" alt="fourth" src="https://github.com/user-attachments/assets/5492ee44-69eb-435c-9796-85f95561deb1" />
+
+
+
 
 
